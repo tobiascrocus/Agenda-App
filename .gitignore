@@ -1,0 +1,37 @@
+# ======================
+# Dependencias
+# ======================
+AgendaApp/node_modules/
+
+# ======================
+# Expo / React Native
+# ======================
+AgendaApp/.expo/
+AgendaApp/.expo-shared/
+
+# Directorios nativos (CNG / Prebuild)
+AgendaApp/android/
+AgendaApp/ios/
+
+# ======================
+# Logs
+# ======================
+AgendaApp/npm-debug.log*
+AgendaApp/yarn-error.log*
+
+# ======================
+# Bases de datos locales
+# ======================
+AgendaApp/*.db
+AgendaApp/*.sqlite
+
+# ======================
+# Builds / dist
+# ======================
+AgendaApp/dist/
+
+# ======================
+# Sistema operativo
+# ======================
+.DS_Store
+Thumbs.db
